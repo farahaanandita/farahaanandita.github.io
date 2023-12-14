@@ -69,11 +69,11 @@ footer {
 }
 
 .project h1 {
-  text-align: center;
+  text-align: left;
   color: #111111;
   font-weight: normal;
   font-size: 32px;
-  letter-spacing: 5px;
+  letter-spacing: 15px;
   margin-bottom: 48px;
 }
 
@@ -81,21 +81,21 @@ footer {
   background-color: slateblue;
 }
 
-.contact {
+.contact-1 {
   padding: 72px 0px 96px 0px;
-  background-color: white;
-  margin-top: -100px;
+  background-color: blue;
+  margin-top: 10px;
 }
 
-.btn {
-  border-radius: 48px;
-  padding: 8px 24px;
-  background-color: slateblue;
-  border: 1px solid slateblue;
-  -webkit-border-radius: 48px;
-  -moz-border-radius: 48px;
-  -ms-border-radius: 48px;
-  -o-border-radius: 48px;
+.btn-1 {
+  border-radius: 24px;
+  padding: 18px 24px;
+  background-color: blue;
+  border: 1px solid blue;
+  -webkit-border-radius: 24px;
+  -moz-border-radius: 24px;
+  -ms-border-radius: 24px;
+  -o-border-radius: 24px;
 }
 
 .email {
@@ -104,5 +104,17 @@ footer {
   border: 2px solid blue;
   color: #111111;
   margin: 0;
-  background-color: blue;
+  background-color: white;
+}
+
+.box {
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+}
+
+.test {
+  background-color: white;
 }
