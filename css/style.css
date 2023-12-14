@@ -1,10 +1,9 @@
 body {
-    font-family: "Poppins";
-  }
-
+  font-family: "Poppins";
+}
 
 .navbar {
-    height: 65px;
+  height: 65px;
 }
 
 .jumbotron {
@@ -13,99 +12,97 @@ body {
 }
 
 .fa {
-    color: black;
+  color: black;
 }
 
-.jumbotron h1{
-    margin-top: 48px;
-    font-size: 48px;
-    margin-bottom: 20px;
+.jumbotron h1 {
+  margin-top: 48px;
+  font-size: 48px;
+  margin-bottom: 20px;
 }
 
 .farfoto {
-    width: 240px;
-    margin-bottom: 86px;
-
+  width: 240px;
+  margin-bottom: 86px;
 }
 
 .tech-tools {
-    /* background-color: #6B5CFF; */
-    background-image: url(../assets/bgcolor.png);
-    background-size: cover;
-    padding: 72px 0px;
+  /* background-color: #6B5CFF; */
+  background-image: url(../assets/bgcolor.png);
+  background-size: cover;
+  padding: 72px 0px;
 }
 
 .tech-tools h1 {
-    text-align: center;
-    color: white;
-    font-weight: normal;
-    font-size: 32px;
-    letter-spacing: 5px;
-    margin-top:24px;
-    margin-bottom:32px;
-    
+  text-align: center;
+  color: white;
+  font-weight: normal;
+  font-size: 32px;
+  letter-spacing: 5px;
+  margin-top: 24px;
+  margin-bottom: 32px;
 }
 
 .tools1 {
-    margin-bottom: 24px;
-    margin-right: 24px;
+  margin-bottom: 24px;
+  margin-right: 24px;
 }
 
-.fa-pencil{
-    font-size: 40px;
-    margin:12px 0px;
+.fa-pencil {
+  font-size: 40px;
+  margin: 12px 0px;
 }
 
-.fa-code{
-    font-size: 40px;
-    margin:12px 0px;
+.fa-code {
+  font-size: 40px;
+  margin: 12px 0px;
 }
 
 footer {
-    padding: 25px 0px 5px 0px;
+  padding: 25px 0px 5px 0px;
 }
 
 .project {
-    padding:72px 0px 96px 0px;
-    background-color: white;
-    margin-top: -10px;
-    
+  padding: 72px 0px 96px 0px;
+  background-color: white;
+  margin-top: -10px;
 }
 
 .project h1 {
-    text-align: center;
-    color: #111111;
-    font-weight: normal;
-    font-size: 32px;
-    letter-spacing: 5px;
-    margin-bottom:48px;
+  text-align: center;
+  color: #111111;
+  font-weight: normal;
+  font-size: 32px;
+  letter-spacing: 5px;
+  margin-bottom: 48px;
 }
 
-.portofolio{
-    background-color:slateblue
-    
+.portofolio {
+  background-color: slateblue;
 }
 
 .contact {
-    padding:72px 0px 96px 0px;
-    background-color: white;
-    margin-top:-100px;
-    
+  padding: 72px 0px 96px 0px;
+  background-color: white;
+  margin-top: -100px;
 }
 
 .btn {
-    border-radius: 50px;
-    padding: 8px 24px;
-    background-color: slateblue;
-    border:1px solid slateblue;
+  border-radius: 48px;
+  padding: 8px 24px;
+  background-color: slateblue;
+  border: 1px solid slateblue;
+  -webkit-border-radius: 48px;
+  -moz-border-radius: 48px;
+  -ms-border-radius: 48px;
+  -o-border-radius: 48px;
 }
 
 .email {
-    border-radius: 50px;
-    padding: 8px 24px;
-    border:2px solid slateblue;
-    color:#111111;
-    margin:0 auto;
-    background-color: white;
+  border-radius: 50px;
+  padding: 8px 32px;
+  border: 2px solid slateblue;
+  color: #111111;
+  margin: 0;
+  background-color: white;
 }
-
