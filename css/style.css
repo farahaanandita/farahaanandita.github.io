@@ -101,5 +101,10 @@ footer {
 }
 
 .test2 {
-    text-align: center;
+  text-align: right;
+  padding: 12px;
+}
+
+.test-3 {
+  padding: 20px;
 }
