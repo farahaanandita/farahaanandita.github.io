@@ -102,9 +102,13 @@ footer {
 
 .test2 {
   text-align: right;
-  padding: 1212px;
+  padding: 13px;
 }
 
 .test-3 {
-  padding: 2281px;
+  padding: 22px;
+}
+
+.test-4 {
+  margin: 10px;
 }
